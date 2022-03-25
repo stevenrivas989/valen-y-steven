@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valen-y-steven/static/css/main.16e1de96.css",
-    "main.js": "/valen-y-steven/static/js/main.e2a4fa96.js",
+    "main.js": "/valen-y-steven/static/js/main.2c5acced.js",
     "static/media/IMG_2687.gif": "/valen-y-steven/static/media/IMG_2687.87048db03608d170a740.gif",
     "static/media/IMG_2215.gif": "/valen-y-steven/static/media/IMG_2215.82687721f634d2ec0924.gif",
     "static/media/IMG_1733.gif": "/valen-y-steven/static/media/IMG_1733.773f03d07b5e63da5684.gif",
@@ -33,10 +33,10 @@
     "static/media/WhatsApp Audio 2022-03-24 at 11.34.07 PM.ogg": "/valen-y-steven/static/media/WhatsApp Audio 2022-03-24 at 11.34.07 PM.0f00c4e589c40a8dfdb1.ogg",
     "index.html": "/valen-y-steven/index.html",
     "main.16e1de96.css.map": "/valen-y-steven/static/css/main.16e1de96.css.map",
-    "main.e2a4fa96.js.map": "/valen-y-steven/static/js/main.e2a4fa96.js.map"
+    "main.2c5acced.js.map": "/valen-y-steven/static/js/main.2c5acced.js.map"
   },
   "entrypoints": [
     "static/css/main.16e1de96.css",
-    "static/js/main.e2a4fa96.js"
+    "static/js/main.2c5acced.js"
   ]
 }
